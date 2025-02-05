@@ -1,0 +1,3 @@
+[submodule "submodual"]
+	path = submodual
+	url = https://github.com/namul21/submodual.git
